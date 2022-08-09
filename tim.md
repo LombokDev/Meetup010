@@ -1,9 +1,9 @@
 # Susunan Panitia
 
 ## Inti
-- Penanggung Jawab : 
-- Ketua Panitia : 
-- Sekretaris: 
-- Bendahara: 
+- Penanggung Jawab : Erfandi Maulana, Hayi Nukman
+- Ketua Panitia : Akmal Dzaki
+- Bendahara: Kartarina
 
-## Divisi 
+## Anggota
+- 
